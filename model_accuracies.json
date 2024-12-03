@@ -1,0 +1,26 @@
+{
+    "Fine-tuned BERT NLI": {
+        "matched_accuracy": 0.7204,
+        "mismatched_accuracy": 0.7108
+    },
+    "Fine-tuned BERT NLI v2": {
+        "matched_accuracy": 0.6804,
+        "mismatched_accuracy": 0.6544
+    },
+    "Fine-tuned BERT NLI v3": {
+        "matched_accuracy": 0.7068,
+        "mismatched_accuracy": 0.7024
+    },
+    "Fine-tuned RoBERTa NLI": {
+        "matched_accuracy": 0.8324,
+        "mismatched_accuracy": 0.8352
+    },
+    "Fine-tuned RoBERTa NLI v2": {
+        "matched_accuracy": 0.3164,
+        "mismatched_accuracy": 0.308
+    },
+    "Fine-tuned RoBERTa NLI v3": {
+        "matched_accuracy": 0.8432,
+        "mismatched_accuracy": 0.8468
+    }
+}
